@@ -33,7 +33,7 @@
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" height="25"/> 
  <img src="https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=react&logoColor=white" height="25"/>
  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25"/>
- <img src="https://img.shields.io/badge/Angular-35495E?style=for-the-badge&logo=angular&logoColor=ff0000" height="25"/>
+ <img src="https://img.shields.io/badge/Angular-E32636?style=for-the-badge&logo=angular&logoColor=E32636" height="25"/>
   
  
  <img src ="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height ="25"/>
