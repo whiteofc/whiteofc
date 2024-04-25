@@ -6,9 +6,9 @@
 
 - 🤔 &nbsp; In constant evolution, passionate about solving problems..
 
-- 🎓 &nbsp; Studying Systems Analysis and Development at the Mario Pontes Jucá University Center - UMJ.
+- 🎓 &nbsp; Formed Systems Analysis and Development at the Mario Pontes Jucá University Center - UMJ.
 
-- 🌱 &nbsp; Learning about Js, React.js,Vue.js and Css.
+- 🌱 &nbsp; Learning about Js, React,Angular, NodeJs .
 
 - ✍️ &nbsp; constancy is the secret.
 
