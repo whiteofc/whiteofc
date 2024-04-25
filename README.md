@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Juninho Vasconcelos
+### I'm Juninho Vasconcelos, FullStack Developer.
 
 ### 👨🏽‍💻 About me:
 
